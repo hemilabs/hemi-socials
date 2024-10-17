@@ -1,0 +1,31 @@
+{
+  "name": "hemi-socials",
+  "version": "1.0.0",
+  "description": "A repository containing the official list of social links for Hemilabs",
+  "keywords": [
+    "hemilabs"
+  ],
+  "bugs": "https://github.com/hemilabs/hemi-socials/issues",
+  "license": "MIT",
+  "author": "Gonzalo D'Elia <gonzalo@bloq.com>",
+  "files": [
+    "socials.json"
+  ],
+  "main": "socials.json",
+  "repository": "hemilabs/hemi-socials",
+  "scripts": {
+    "deps:check": "knip",
+    "format:check": "prettier --check .",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "19.5.0",
+    "better-sort-package-json": "1.0.0",
+    "commitlint-config-bloq": "1.0.0",
+    "husky": "9.1.6",
+    "knip": "5.33.3",
+    "lint-staged": "15.2.10",
+    "prettier": "3.3.3"
+  },
+  "type": "module"
+}
