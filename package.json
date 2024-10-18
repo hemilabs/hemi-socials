@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "19.5.0",
-    "better-sort-package-json": "1.0.0",
+    "better-sort-package-json": "1.1.0",
     "commitlint-config-bloq": "1.0.0",
     "husky": "9.1.6",
     "knip": "5.33.3",
