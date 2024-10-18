@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "A repository containing the official list of social links for Hemilabs",
   "keywords": [
-    "hemilabs"
+    "discord",
+    "github",
+    "hemilabs",
+    "linkedin",
+    "socials",
+    "telegram",
+    "twitter",
+    "url",
+    "x",
+    "youtube"
   ],
   "bugs": "https://github.com/hemilabs/hemi-socials/issues",
   "license": "MIT",
