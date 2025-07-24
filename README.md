@@ -15,7 +15,17 @@ const {
   githubUrl,
   telegramCommunityUrl,
   telegramNewsUrl,
+  tiktokUrl,
   twitterUrl,
   youtubeUrl,
 } = hemiSocials;
+```
+
+## Release process
+
+With the changes merged into `main`, tag the merge commit, push and [create a new release](https://github.com/hemilabs/hemi-socials/releases/new). The package will be published automatically to NPM.
+
+```sh
+git tag -s -m "" v$(jq -r '.version' <package.json) --force
+git push --tags --force
 ```
