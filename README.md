@@ -1,6 +1,6 @@
 # hemi-socials
 
-![NPM Version](https://img.shields.io/npm/v/hemi-socials)![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/hemilabs/hemi-socials/js-checks.yml?branch=main)
+![NPM Version](https://img.shields.io/npm/v/hemi-socials)![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/hemilabs/hemi-socials/js-checks.yml?branch=main) [![Follow Hemi on X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fhemi_xyz&style=flat&logo=x&label=%40hemi_xyz&labelColor=%23ff6c15&color=%230a0a0a)](https://x.com/intent/follow?screen_name=hemi_xyz)
 
 A repository containing the official list of social links for Hemilabs
 
